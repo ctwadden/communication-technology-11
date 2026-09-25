@@ -1,0 +1,138 @@
+{
+  "course": "COM11",
+  "title": "Communication 11",
+  "subtitle": "Build practical media skills. Create for an audience, test your ideas, and explain how your work improves.",
+  "accent": "#a61e58",
+  "coachUrl": "https://gemini.google.com/gem/1ySXJPfNy0hCfESu8EzsD3vuexPiuKQKo?usp=sharing",
+  "learningCycle": "Build · Test · Improve · Explain",
+  "modules": [
+    {
+      "anchor": "module-1",
+      "number": "01",
+      "title": "Graphic Design & Photography",
+      "summary": "Use images, words and design choices to communicate clearly.",
+      "description": "Start with audience and purpose. Practise layers, masks, colour and typography, then use feedback to refine a visual message. Follow the route your teacher assigns and keep your working files and process evidence.",
+      "groups": [
+        {
+          "title": "Look closely. Communicate clearly.",
+          "description": "Build a design vocabulary, then create and test a consistent visual message.",
+          "lessons": [
+            {
+              "title": "Logo Look",
+              "kind": "Design investigation",
+              "time": "40 min",
+              "url": "logo-look/",
+              "desc": "Study colour, shape and lettering in a logo. Investigate its story and explain your observations in your Google Doc.",
+              "skills": [
+                "Visual analysis",
+                "Evidence & explanation"
+              ]
+            },
+            {
+              "title": "Brand Foundations",
+              "kind": "Project",
+              "url": "brand-foundations.html",
+              "desc": "Create a style tile, a launch graphic and an adaptation for a fictional client. Test the message, revise and defend your choices.",
+              "skills": [
+                "Audience & identity",
+                "Typography & layout"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Foundation",
+          "description": "An introduction to layers, masks and believable depth.",
+          "lessons": [
+            {
+              "title": "Phone Portal / Out-of-Bounds",
+              "label": "Decode the Impossible",
+              "kind": "Tutorial + extension",
+              "url": "https://ctwadden.github.io/ps-01-photoshop-foundations/",
+              "desc": "Build an editable phone portal, then bring a butterfly beyond the frame with masks and deliberate layer order.",
+              "skills": [
+                "Layers & masks",
+                "Depth & edges"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Shared bootcamp",
+          "description": "Build your workflow, then respond to a changed brief.",
+          "lessons": [
+            {
+              "title": "Below the Surface",
+              "kind": "Tutorial",
+              "desc": "Create a documentary opener with a layered still, a short motion version and a practical revision.",
+              "skills": [
+                "Compositing",
+                "Still to motion"
+              ]
+            },
+            {
+              "title": "Drop Day",
+              "kind": "Tutorial",
+              "projectId": "PS-DROP-DAY",
+              "url": "https://ctwadden.github.io/multimedia-12/photoshop/studio/drop-day/?course=COM11",
+              "desc": "Repair a sneaker source, build recoverable masks, and control colour and typography for a product display.",
+              "skills": [
+                "Retouching & masking",
+                "Colour & typography"
+              ],
+              "reflectionUrl": "https://script.google.com/a/macros/gnspes.ca/s/AKfycbxqHbAwEwbvdMrOGY4eP4Yu-z8PXqMsA-MfMGBFoTA5CoDbOA4sUv1LsXbYfFMWmrcP/exec?project=PS-DROP-DAY&type=student"
+            },
+            {
+              "title": "On the Cover",
+              "kind": "Tutorial",
+              "desc": "Design an editorial cover with readable hierarchy, careful portrait masking and purposeful typography.",
+              "skills": [
+                "Editorial hierarchy",
+                "Portrait masking"
+              ]
+            },
+            {
+              "title": "The Brief Has Changed",
+              "label": "Class 10",
+              "kind": "Practical assessment",
+              "desc": "Apply your bootcamp learning to a changed brief and explain the choices behind your response.",
+              "skills": [
+                "Adaptation",
+                "Explain your decisions"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Design exploration & purpose",
+          "description": "Connect technique to audience, meaning and design choices.",
+          "lessons": [
+            {
+              "title": "Design Studio Explorer",
+              "kind": "Exploration",
+              "desc": "Explore the design studio route before moving into more advanced projects.",
+              "skills": [
+                "Design exploration"
+              ]
+            },
+            {
+              "title": "Make It Matter",
+              "kind": "Tutorial",
+              "desc": "Connect design theory to a cause-advertising project. Explain how your image and words communicate with an audience.",
+              "skills": [
+                "Audience & purpose",
+                "Cause advertising"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "later-modules",
+      "navigationLabel": "Course pathway",
+      "title": "More studio modules",
+      "summary": "Further projects and module links will appear here as the course progresses. Your teacher will identify the next materials and equipment you need."
+    }
+  ]
+}
