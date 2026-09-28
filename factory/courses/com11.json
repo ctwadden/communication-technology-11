@@ -4,7 +4,7 @@
   "subtitle": "Build practical media skills. Create for an audience, test your ideas, and explain how your work improves.",
   "accent": "#a61e58",
   "coachUrl": "https://gemini.google.com/gem/1ySXJPfNy0hCfESu8EzsD3vuexPiuKQKo?usp=sharing",
-  "learningCycle": "Build \u00b7 Test \u00b7 Improve \u00b7 Explain",
+  "learningCycle": "Build · Test · Improve · Explain",
   "modules": [
     {
       "anchor": "module-1",
@@ -124,6 +124,17 @@
               "skills": [
                 "Audience & purpose",
                 "Cause advertising"
+              ]
+            },
+            {
+              "title": "Fresh Impact",
+              "label": "ZUNO citrus campaign",
+              "kind": "Tutorial + extension",
+              "url": "photoshop/fresh-impact/",
+              "desc": "Create an editable citrus product advertisement using paths, label construction, depth, lighting and audience-focused hierarchy.",
+              "skills": [
+                "Product advertising",
+                "Editable image construction"
               ]
             }
           ]
