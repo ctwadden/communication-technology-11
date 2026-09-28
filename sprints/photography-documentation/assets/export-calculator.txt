@@ -1,4 +1,0 @@
-PRINT SIZE = PIXELS ÷ PPI
-PIXELS NEEDED = INCHES × PPI
-1 inch = 2.54 cm
-Example: 6 cm = 2.36 in; 2.36 × 300 = 709 px
