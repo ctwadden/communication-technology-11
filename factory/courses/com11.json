@@ -14,6 +14,23 @@
       "description": "Start with audience and purpose. Practise layers, masks, colour and typography, then use feedback to refine a visual message. Follow the route your teacher assigns and keep your working files and process evidence.",
       "groups": [
         {
+          "title": "Current sprint",
+          "description": "Start here this week.",
+          "lessons": [
+            {
+              "title": "Photography for design and documentation",
+              "kind": "Sprint 3 workbook",
+              "label": "5–16 Oct",
+              "desc": "Handle the DSLR and tripod safely, control light and viewpoint, export for web and print, and document your village making process.",
+              "skills": [
+                "DSLR & tripod",
+                "Documentation & export"
+              ],
+              "url": "sprints/photography-documentation/"
+            }
+          ]
+        },
+        {
           "title": "Look closely. Communicate clearly.",
           "description": "Build a design vocabulary, then create and test a consistent visual message.",
           "lessons": [
