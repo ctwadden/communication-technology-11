@@ -69,7 +69,9 @@
                 "Compositing",
                 "Still to motion"
               ],
-              "url": "https://outcome-evidence-map.netlify.app/outputs/recovered-teaching-materials-2026-09-23/guides/Below_the_Surface_Student_Guide.html"
+              "url": "https://outcome-evidence-map.netlify.app/outputs/recovered-teaching-materials-2026-09-23/guides/Below_the_Surface_Student_Guide.html?course=COM11",
+              "projectId": "PS-BELOW-SURFACE",
+              "reflectionUrl": "https://script.google.com/a/macros/gnspes.ca/s/AKfycbxqHbAwEwbvdMrOGY4eP4Yu-z8PXqMsA-MfMGBFoTA5CoDbOA4sUv1LsXbYfFMWmrcP/exec?project=PS-BELOW-SURFACE&type=student"
             },
             {
               "title": "Drop Day",
@@ -91,7 +93,9 @@
                 "Editorial hierarchy",
                 "Portrait masking"
               ],
-              "url": "https://outcome-evidence-map.netlify.app/outputs/recovered-teaching-materials-2026-09-23/guides/On_the_Cover_Student_Guide.html"
+              "url": "https://outcome-evidence-map.netlify.app/outputs/recovered-teaching-materials-2026-09-23/guides/On_the_Cover_Student_Guide.html?course=COM11",
+              "projectId": "PS-ON-COVER",
+              "reflectionUrl": "https://script.google.com/a/macros/gnspes.ca/s/AKfycbxqHbAwEwbvdMrOGY4eP4Yu-z8PXqMsA-MfMGBFoTA5CoDbOA4sUv1LsXbYfFMWmrcP/exec?project=PS-ON-COVER&type=student"
             },
             {
               "title": "The Brief Has Changed",
@@ -135,7 +139,9 @@
               "skills": [
                 "Product advertising",
                 "Editable image construction"
-              ]
+              ],
+              "projectId": "PS-FRESH-IMPACT",
+              "reflectionUrl": "https://script.google.com/a/macros/gnspes.ca/s/AKfycbxqHbAwEwbvdMrOGY4eP4Yu-z8PXqMsA-MfMGBFoTA5CoDbOA4sUv1LsXbYfFMWmrcP/exec?project=PS-FRESH-IMPACT&type=student"
             }
           ]
         }
