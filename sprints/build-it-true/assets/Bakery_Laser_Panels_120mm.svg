@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="260mm" height="185mm" viewBox="0 0 260 185">
+<!-- Snowy Village bakery: 3 mm plywood, finger joints (5 per edge). Red 0.01 mm = cut; blue = engrave. Check kerf with a test coupon first. -->
+<path d="M130.00,80.00 L130.00,66.00 L127.00,66.00 L127.00,52.00 L130.00,52.00 L130.00,38.00 L127.00,38.00 L127.00,24.00 L130.00,24.00 L130.00,10.00 L10.00,10.00 L10.00,24.00 L13.00,24.00 L13.00,38.00 L10.00,38.00 L10.00,52.00 L13.00,52.00 L13.00,66.00 L10.00,66.00 L10.00,80.00 Z" fill="none" stroke="#ff0000" stroke-width="0.01"/>
+<rect x="34.00" y="40.00" width="24" height="40" fill="none" stroke="#ff0000" stroke-width="0.01"/>
+<text x="16" y="20" font-size="5" fill="#0000ff" font-family="Arial">FRONT</text>
+<path d="M130.00,165.00 L130.00,151.00 L127.00,151.00 L127.00,137.00 L130.00,137.00 L130.00,123.00 L127.00,123.00 L127.00,109.00 L130.00,109.00 L130.00,95.00 L10.00,95.00 L10.00,109.00 L13.00,109.00 L13.00,123.00 L10.00,123.00 L10.00,137.00 L13.00,137.00 L13.00,151.00 L10.00,151.00 L10.00,165.00 Z" fill="none" stroke="#ff0000" stroke-width="0.01"/>
+<text x="16" y="105" font-size="5" fill="#0000ff" font-family="Arial">BACK</text>
+<path d="M227.00,80.00 L227.00,66.00 L230.00,66.00 L230.00,52.00 L227.00,52.00 L227.00,38.00 L230.00,38.00 L230.00,24.00 L227.00,24.00 L227.00,10.00 L153.00,10.00 L153.00,24.00 L150.00,24.00 L150.00,38.00 L153.00,38.00 L153.00,52.00 L150.00,52.00 L150.00,66.00 L153.00,66.00 L153.00,80.00 Z" fill="none" stroke="#ff0000" stroke-width="0.01"/>
+<rect x="181.00" y="31.00" width="18" height="18" fill="none" stroke="#ff0000" stroke-width="0.01"/>
+<text x="156" y="20" font-size="5" fill="#0000ff" font-family="Arial">LEFT</text>
+<path d="M227.00,165.00 L227.00,151.00 L230.00,151.00 L230.00,137.00 L227.00,137.00 L227.00,123.00 L230.00,123.00 L230.00,109.00 L227.00,109.00 L227.00,95.00 L153.00,95.00 L153.00,109.00 L150.00,109.00 L150.00,123.00 L153.00,123.00 L153.00,137.00 L150.00,137.00 L150.00,151.00 L153.00,151.00 L153.00,165.00 Z" fill="none" stroke="#ff0000" stroke-width="0.01"/>
+<text x="156" y="105" font-size="5" fill="#0000ff" font-family="Arial">RIGHT</text>
+</svg>
