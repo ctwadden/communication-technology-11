@@ -27,6 +27,17 @@
                 "Photojournalism"
               ],
               "url": "sprints/photo-desk/guide.html"
+            },
+            {
+              "title": "Document It",
+              "kind": "Sprint 3 guide",
+              "label": "5–16 Oct",
+              "desc": "Photograph your Snowy Village work so clearly that the modelling team can measure and rebuild it: views, scale, even light, exports and a labelled reference sheet.",
+              "skills": [
+                "Documentation photography",
+                "Reference sheets"
+              ],
+              "url": "sprints/document-it/guide.html"
             }
           ]
         },
