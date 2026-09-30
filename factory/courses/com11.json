@@ -53,6 +53,23 @@
           ]
         },
         {
+          "title": "Coming up · Sprint 4",
+          "description": "Opens 19 October. Look ahead if you finish early.",
+          "lessons": [
+            {
+              "title": "Build It True",
+              "kind": "Sprint 4 guide",
+              "label": "19 Oct–2 Nov",
+              "desc": "Design a moving Snowy Village scene in Blender: laser-cut buildings that lock together, a sculpted character, a mechanism you test on screen, and a circuit plan.",
+              "skills": [
+                "Blender at true scale",
+                "Mechanisms & circuit plans"
+              ],
+              "url": "sprints/build-it-true/guide.html"
+            }
+          ]
+        },
+        {
           "title": "Look closely. Communicate clearly.",
           "description": "Build a design vocabulary, then create and test a consistent visual message.",
           "lessons": [
