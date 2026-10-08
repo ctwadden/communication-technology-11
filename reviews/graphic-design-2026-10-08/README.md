@@ -6,7 +6,7 @@ This package teaches design elements/principles, a labelled colour wheel, palett
 
 ## Download and review
 
-[Download the complete student package](COM11_GraphicDesign_Student_Package_2026-10-08_v3_DRAFT.zip), extract it, and open `index.html`. The 70-file archive contains:
+[Download the complete student package](COM11_GraphicDesign_Student_Package_2026-10-08_v4_DRAFT.zip), extract it, and open `index.html`. The 70-file archive contains:
 
 - 45-slide browser presentation with explanations, ten teaching checkpoints and later connection/transfer checks;
 - `downloads/COM11_GraphicDesign_2026-10-08_v3_DRAFT.pptx`: editable text and narration notes, with embedded concept/ad visuals;
