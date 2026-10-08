@@ -1,0 +1,537 @@
+[
+  {
+    "raw": "01-free-editor.jpg",
+    "derived": "web-open.jpg",
+    "box": [
+      360,
+      12,
+      917,
+      65
+    ],
+    "caption": "1.1 Open the free editor. The top toolbar is available without signing up.",
+    "crop": null,
+    "sha256_raw": "1a30291bd8ecb93adf920bb655b3e9e8a27f024a9a82dc51ca540219b2d14121"
+  },
+  {
+    "raw": "02-text-tool.jpg",
+    "derived": "web-text-tool.jpg",
+    "box": [
+      739,
+      15,
+      782,
+      61
+    ],
+    "caption": "1.2 Choose Text; the left panel shows Normal and the size controls.",
+    "crop": [
+      0,
+      0,
+      900,
+      470
+    ],
+    "sha256_raw": "bab9e133fa0fa9b07a281f66a0e9ea4b2fe512acd95c10fee29d828ad3df61a8"
+  },
+  {
+    "raw": "03-title.jpg",
+    "derived": "web-title.jpg",
+    "box": [
+      63,
+      171,
+      144,
+      279
+    ],
+    "caption": "1.3 Set Normal and Large, then enter the title on the canvas.",
+    "crop": [
+      5,
+      75,
+      750,
+      315
+    ],
+    "sha256_raw": "cc70aa830be563d783d9405aee508a03f87d3fefed32c137133cf72e26cf3afe"
+  },
+  {
+    "raw": "04-brief.jpg",
+    "derived": "web-brief.jpg",
+    "box": [
+      263,
+      142,
+      1104,
+      203
+    ],
+    "caption": "1.4 Add audience, action and tone as editable text.",
+    "crop": [
+      250,
+      120,
+      1140,
+      220
+    ],
+    "sha256_raw": "94a7be76c5f3d529c6bbee711d849d253535cc3d5818b7237c3fe6728a517a88"
+  },
+  {
+    "raw": "05-insert-image-menu.jpg",
+    "derived": "web-image-menu.jpg",
+    "box": [
+      720,
+      77,
+      905,
+      109
+    ],
+    "caption": "2.1 Alternative: More tools \u2192 Insert image. File-picker completion is not yet verified.",
+    "crop": [
+      710,
+      65,
+      918,
+      445
+    ],
+    "sha256_raw": "8158334f6e573bba80cb30da6b9c174d6e9bb9feb5d0a2b29857d5cca3342c24"
+  },
+  {
+    "raw": "06-image-pasted-too-high.jpg",
+    "derived": "web-image-wrong.jpg",
+    "box": [
+      592,
+      0,
+      1028,
+      280
+    ],
+    "caption": "2.2 Observed mistake: pasted image covers the brief and extends above the canvas view.",
+    "crop": [
+      250,
+      0,
+      1060,
+      520
+    ],
+    "sha256_raw": "415eb22e4b171fec0f0f651ba66341c843603d7209fc6e0c2add87f29926bd20"
+  },
+  {
+    "raw": "07-image-moved.jpg",
+    "derived": "web-image-moved.jpg",
+    "box": [
+      304,
+      210,
+      736,
+      580
+    ],
+    "caption": "2.3 Drag the image below the brief. The words are visible again.",
+    "crop": [
+      250,
+      90,
+      1120,
+      610
+    ],
+    "sha256_raw": "d5f3e1921abc738687ec52c1496898237d3029f5fb4fcfd936cc6a50be376ab2"
+  },
+  {
+    "raw": "08-image-resized.jpg",
+    "derived": "web-image-resized.jpg",
+    "box": [
+      596,
+      455,
+      619,
+      483
+    ],
+    "caption": "2.4 Drag a corner handle to reduce size while keeping the cup proportions.",
+    "crop": [
+      275,
+      185,
+      640,
+      495
+    ],
+    "sha256_raw": "bac50e87fec75ad784c254cc1bf61118b96c457ce997bc19782c82688d6f4a02"
+  },
+  {
+    "raw": "09-palette-heading.jpg",
+    "derived": "web-palette-heading.jpg",
+    "box": [
+      650,
+      210,
+      844,
+      247
+    ],
+    "caption": "3.1 Add the colour-role heading with Text.",
+    "crop": [
+      630,
+      195,
+      880,
+      265
+    ],
+    "sha256_raw": "e90951aea72d18ad39bf7fb18df162f3480e0fa24ace824d54eda1693475e89b"
+  },
+  {
+    "raw": "10-swatch-drawn.jpg",
+    "derived": "web-swatch.jpg",
+    "box": [
+      507,
+      18,
+      537,
+      58
+    ],
+    "caption": "3.2 Choose Rectangle and drag a small swatch. Keep it selected.",
+    "crop": [
+      495,
+      0,
+      805,
+      350
+    ],
+    "sha256_raw": "235e0854e60186d9d3728ab19fafaad691e3e88d498ccadefe928fc1e28249fe"
+  },
+  {
+    "raw": "10-swatch-drawn.jpg",
+    "derived": "web-background-control.jpg",
+    "box": [
+      169,
+      171,
+      204,
+      204
+    ],
+    "caption": "3.3a Background opens the fill picker; this is different from Stroke.",
+    "crop": [
+      10,
+      148,
+      211,
+      218
+    ],
+    "sha256_raw": "235e0854e60186d9d3728ab19fafaad691e3e88d498ccadefe928fc1e28249fe"
+  },
+  {
+    "raw": "11-fill-picker.jpg",
+    "derived": "web-fill-picker.jpg",
+    "box": [
+      244,
+      413,
+      418,
+      448
+    ],
+    "caption": "3.3 Background opens the fill picker; use the Hex code field.",
+    "crop": [
+      235,
+      370,
+      425,
+      461
+    ],
+    "sha256_raw": "3a31c5eca4b2c35c878bc7af6b0f786e44e2f38c97031e69c74f9590351627bb"
+  },
+  {
+    "raw": "12-cream-applied.jpg",
+    "derived": "web-cream.jpg",
+    "box": [
+      246,
+      412,
+      420,
+      447
+    ],
+    "caption": "3.4 Enter f4ead5 for cream; click outside the picker to finish.",
+    "crop": [
+      235,
+      370,
+      425,
+      461
+    ],
+    "sha256_raw": "f3f03184d2ced17cbebfe3639bb00b2e1f80593998c52e4573e7b820427fbc09"
+  },
+  {
+    "raw": "13-text-swatch-drawn.jpg",
+    "derived": "web-ink-swatch.jpg",
+    "box": [
+      653,
+      329,
+      711,
+      388
+    ],
+    "caption": "3.5 Make a second swatch for main words, then open its Background picker.",
+    "crop": [
+      630,
+      250,
+      1105,
+      465
+    ],
+    "sha256_raw": "2dd85e9b3acca8f5350acd020bece761c95f1ebae47c18ad83762f32d55013a9"
+  },
+  {
+    "raw": "14-ink-applied.jpg",
+    "derived": "web-ink.jpg",
+    "box": [
+      653,
+      329,
+      711,
+      388
+    ],
+    "caption": "3.6 Apply 193443 for dark ink; this swatch represents the main words.",
+    "crop": [
+      630,
+      250,
+      1105,
+      465
+    ],
+    "sha256_raw": "6c4fa579e1183a173c08d39476adae30283bb2c72ea540ad80957f09c9874464"
+  },
+  {
+    "raw": "15-accent-swatch-drawn.jpg",
+    "derived": "web-accent-swatch.jpg",
+    "box": [
+      653,
+      394,
+      711,
+      452
+    ],
+    "caption": "3.7 Make a third swatch for a small accent.",
+    "crop": [
+      630,
+      250,
+      1105,
+      465
+    ],
+    "sha256_raw": "52844933fb35c9d78ba48355b3b48c768046685ee9eb000fef0e5c63152546b1"
+  },
+  {
+    "raw": "16-accent-applied.jpg",
+    "derived": "web-accent.jpg",
+    "box": [
+      653,
+      394,
+      711,
+      452
+    ],
+    "caption": "3.8 Apply b85a36 for terracotta. These are worked-example values.",
+    "crop": [
+      630,
+      250,
+      1105,
+      465
+    ],
+    "sha256_raw": "fee7efacbfeb9a8cf26ddbea0a725bcf8a3a0ae5be629a8fe53edc4968427dac"
+  },
+  {
+    "raw": "17-cream-label.jpg",
+    "derived": "web-cream-label.jpg",
+    "box": [
+      715,
+      258,
+      1112,
+      304
+    ],
+    "caption": "3.9 Label the cream swatch: colour name, role and hex value.",
+    "crop": [
+      630,
+      250,
+      1125,
+      465
+    ],
+    "sha256_raw": "1274a4b6bf4af94836e9ff87111c7d294d2d78680119c5e7b137179f91b199ad"
+  },
+  {
+    "raw": "18-ink-label.jpg",
+    "derived": "web-ink-label.jpg",
+    "box": [
+      715,
+      328,
+      1112,
+      369
+    ],
+    "caption": "3.10 Label the dark swatch as main words.",
+    "crop": [
+      630,
+      250,
+      1125,
+      465
+    ],
+    "sha256_raw": "fb7236bb3750232586909ce7b2aa7866e9b0de78858c5b3155307e1ecc2d2090"
+  },
+  {
+    "raw": "19-accent-label.jpg",
+    "derived": "web-accent-label.jpg",
+    "box": [
+      715,
+      390,
+      1105,
+      435
+    ],
+    "caption": "3.11 Label the terracotta swatch as accent.",
+    "crop": [
+      630,
+      250,
+      1125,
+      465
+    ],
+    "sha256_raw": "3467998e4a8b0a7b2dcac301c8281e675f4a0350c88332a5ea46c4598cecbab6"
+  },
+  {
+    "raw": "20-type-direction.jpg",
+    "derived": "web-type-direction.jpg",
+    "box": [
+      265,
+      488,
+      1112,
+      528
+    ],
+    "caption": "3.12 Describe the type direction instead of just naming a favourite font.",
+    "crop": [
+      250,
+      478,
+      1130,
+      540
+    ],
+    "sha256_raw": "1b181e7d013f4a9bbaeaef4f66053fd5a45c2f769cfe25716e631cab911bb3a4"
+  },
+  {
+    "raw": "21-headline-sample.jpg",
+    "derived": "web-headline.jpg",
+    "box": [
+      64,
+      239,
+      143,
+      277
+    ],
+    "caption": "3.13 Set Large for a headline sample; Normal is the editor specimen, not a required Photoshop font.",
+    "crop": [
+      14,
+      146,
+      155,
+      285
+    ],
+    "sha256_raw": "fd9565893c98561a07b0886db8e2192b6161dbd63f39ec0ca9647d47192d63a4"
+  },
+  {
+    "raw": "22-detail-sample.jpg",
+    "derived": "web-detail.jpg",
+    "box": [
+      268,
+      561,
+      1100,
+      599
+    ],
+    "caption": "3.14 Add a smaller detail sample to show the information roles.",
+    "crop": [
+      250,
+      550,
+      1130,
+      610
+    ],
+    "sha256_raw": "6b4bbf6773363203ec954e946ad4193a604bf022d9eec9de708d1f6878dbdddb"
+  },
+  {
+    "raw": "23-reason.jpg",
+    "derived": "web-reason.jpg",
+    "box": [
+      265,
+      601,
+      1140,
+      638
+    ],
+    "caption": "3.15 Explain the visible feature and its possible purpose for this audience.",
+    "crop": [
+      250,
+      590,
+      1160,
+      645
+    ],
+    "sha256_raw": "401522bdbe1b55c5bc80e24f89f3fcc029940aaf29e44e122472259e8562ec75"
+  },
+  {
+    "raw": "24-board-complete.jpg",
+    "derived": "web-credit.jpg",
+    "box": [
+      266,
+      639,
+      1130,
+      675
+    ],
+    "caption": "2.5 / 3.16 Credit the reference and inspect the whole board. This is constructed practice.",
+    "crop": [
+      250,
+      630,
+      1140,
+      690
+    ],
+    "sha256_raw": "b3b0a2062bcc07757ef49fef4ec814152a0411f9d9ba63c545eb133b1de1377b"
+  },
+  {
+    "raw": "25-save-menu.jpg",
+    "derived": "web-save-menu.jpg",
+    "box": [
+      19,
+      102,
+      241,
+      135
+    ],
+    "caption": "4.1 Main menu \u2192 Save to\u2026 is the editable-file route.",
+    "crop": [
+      14,
+      58,
+      250,
+      180
+    ],
+    "sha256_raw": "ff328195fc6e4f3a77a0137a0cddbf8bd30f47e355fab1953eb154923e03a10d"
+  },
+  {
+    "raw": "26-save-to-disk.jpg",
+    "derived": "web-save-disk.jpg",
+    "box": [
+      340,
+      491,
+      459,
+      549
+    ],
+    "caption": "4.2 Choose Save to file under Save to disk. Actual disk save/reopen remains unverified here.",
+    "crop": [
+      295,
+      220,
+      525,
+      559
+    ],
+    "sha256_raw": "2fb6dc23cecb3f477a57ed673eabb8a2aaf81c749f0228bbcb4523fcfeab680e"
+  },
+  {
+    "raw": "27-export-menu.jpg",
+    "derived": "web-export-menu.jpg",
+    "box": [
+      18,
+      135,
+      241,
+      168
+    ],
+    "caption": "4.3 Main menu \u2192 Export image\u2026 opens the image review/export dialog.",
+    "crop": [
+      14,
+      58,
+      250,
+      180
+    ],
+    "sha256_raw": "ff328195fc6e4f3a77a0137a0cddbf8bd30f47e355fab1953eb154923e03a10d"
+  },
+  {
+    "raw": "28-export-preview.jpg",
+    "derived": "web-export-preview.jpg",
+    "box": [
+      1000,
+      349,
+      1116,
+      388
+    ],
+    "caption": "4.4 Preview with Background on and Scale 2\u00d7; inspect the board before exporting.",
+    "crop": [
+      125,
+      135,
+      1155,
+      588
+    ],
+    "sha256_raw": "7fbd7841d32aabd01f5ab7946615ecf34710a2c6c7bafd02ae50d85d5620e4e7"
+  },
+  {
+    "raw": "30-copy-export.jpg",
+    "derived": "web-copy-export.jpg",
+    "box": [
+      954,
+      494,
+      1116,
+      545
+    ],
+    "caption": "4.5 Copy to clipboard produced the actual PNG. The author saved its bytes through the browser clipboard API.",
+    "crop": [
+      750,
+      200,
+      1130,
+      565
+    ],
+    "sha256_raw": "2329c42aca97f0655e04075c757de34af0c5b06f0a792708938eda8e8b930111"
+  }
+]
