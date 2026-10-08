@@ -29,11 +29,11 @@ for(let i=0;i<d.slides.length;i++){
  txt(slide,'COM11 · PLAN · '+String(i+1).padStart(2,'0')+' / '+d.slides.length+' · '+s.source,48,679,1184,26,16,false);
  slide.speakerNotes.textFrame.setText(s.narration+'\n\nStudent task: '+(q||'Point to the visible feature and explain its purpose.')+'\nSource: '+s.source_url+'\nReal campaign images: copyright remains with the credited owners. Concept diagrams are labelled teaching models; practice poster is constructed. Independent assessed answers and teacher brief are separate private files.');
 }
-const candidate=path.join(HERE,'candidate-v3.pptx');await(await PresentationFile.exportPptx(p)).save(candidate);
-const final=path.join(root,'student/downloads/COM11_GraphicDesign_Planning_2026-10-08_v3_DRAFT.pptx');
-await finalizePresentation({workspaceDir:root,candidatePath:candidate,finalPath:final,pythonExecutable:process.env.RUNTIME_PYTHON,integrityValidatorPath:path.join(SKILL,'container_tools/inspect_presentation_package_integrity.py'),layoutValidatorPath:path.join(SKILL,'container_tools/inspect_presentation_layout_geometry.py'),layoutArgs:['--expected-slide-size-emu','12192000,6858000','--validate-heading-fit'],requiredNativeTableOwnerSlides:[],requiredNativeChartOwnerSlides:[],fontPolicy:{basis:'design',families:[font]},verifyArtifactToolImport:true,receiptPath:path.join(HERE,'pptx-validation-v3.json')});
+const candidate=path.join(HERE,'candidate-v5.pptx');await(await PresentationFile.exportPptx(p)).save(candidate);
+const final=path.join(root,'student/downloads/COM11_GraphicDesign_Planning_2026-10-08_v5_DRAFT.pptx');
+await finalizePresentation({workspaceDir:root,candidatePath:candidate,finalPath:final,pythonExecutable:process.env.RUNTIME_PYTHON,integrityValidatorPath:path.join(SKILL,'container_tools/inspect_presentation_package_integrity.py'),layoutValidatorPath:path.join(SKILL,'container_tools/inspect_presentation_layout_geometry.py'),layoutArgs:['--expected-slide-size-emu','12192000,6858000','--validate-heading-fit'],requiredNativeTableOwnerSlides:[],requiredNativeChartOwnerSlides:[],fontPolicy:{basis:'design',families:[font]},verifyArtifactToolImport:true,receiptPath:path.join(HERE,'pptx-validation-v5.json')});
 const finalDeck=await PresentationFile.importPptx(await FileBlob.load(final));
-const rendered=path.join(HERE,'final-slides-v3');await fs.mkdir(rendered,{recursive:true});
+const rendered=path.join(HERE,'final-slides-v5');await fs.mkdir(rendered,{recursive:true});
 for(let i=0;i<d.slides.length;i++){
  const blob=await finalDeck.export({slide:finalDeck.slides.getItem(i),format:'png',scale:1});
  await fs.writeFile(path.join(rendered,`slide-${String(i+1).padStart(2,'0')}.png`),new Uint8Array(await blob.arrayBuffer()));

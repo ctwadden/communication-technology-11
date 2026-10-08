@@ -65,14 +65,19 @@
     "sha256": "e25828c99a12cc2f3ea2dc7b1696d04dbc84934151ca29f1e905fd52b8c5292f"
   },
   {
+    "path": "downloads/COM11_GraphicDesign_Browser_MoodBoard_Guide_2026-10-08_v1_DRAFT.pdf",
+    "bytes": 1263653,
+    "sha256": "472f893139c0dc3f124999d904bc32318bfcbecaa3b602a24edf009d86b759c3"
+  },
+  {
     "path": "downloads/COM11_GraphicDesign_Google_AI_Studio_Prompt_2026-10-08_v1.md",
     "bytes": 8978,
     "sha256": "5dc772e62061432631b9ec3ce7ce8030f5a313a7c17054baa7c5e29185a9bfad"
   },
   {
-    "path": "downloads/COM11_GraphicDesign_Lab_Route_2026-10-08_v3_DRAFT.pdf",
-    "bytes": 89790,
-    "sha256": "817753b87f3ea0430953975d09ae108f07037c44240008899ea49ce462ae440c"
+    "path": "downloads/COM11_GraphicDesign_Lab_Route_2026-10-08_v4_DRAFT.pdf",
+    "bytes": 90475,
+    "sha256": "85336b2127eb57820fbea6b2ce3b61cce90dda1a6e393d5a13385d847310d505"
   },
   {
     "path": "downloads/COM11_GraphicDesign_Photoshop_Labs_2026-10-08_v1_DRAFT.pdf",
@@ -80,19 +85,19 @@
     "sha256": "801bd6d749cc2c9c2e14921d596c0ff78a1b5e16858a6736cbc9e1ce42e3cace"
   },
   {
-    "path": "downloads/COM11_GraphicDesign_Planning_2026-10-08_v3_DRAFT.pdf",
-    "bytes": 1298941,
-    "sha256": "a18a76b8e2b1f535111bccf223aa0d94492d6c803148f10968b593cdb6e978e7"
+    "path": "downloads/COM11_GraphicDesign_Planning_2026-10-08_v5_DRAFT.pdf",
+    "bytes": 1442947,
+    "sha256": "d1f169b9c433a892d183d0682269d8063fdbab8f6f7881e3faa45dc60866a772"
   },
   {
-    "path": "downloads/COM11_GraphicDesign_Planning_2026-10-08_v3_DRAFT.pptx",
-    "bytes": 919723,
-    "sha256": "6691cec0fa028b6e720a6e01c0acb23df31b360f574931c42b072f06bf6c8458"
+    "path": "downloads/COM11_GraphicDesign_Planning_2026-10-08_v5_DRAFT.pptx",
+    "bytes": 866765,
+    "sha256": "65576b0aa9eac4ac466f65ad2334daed23c41b85f2aa7706ca61ce663d2b7e3e"
   },
   {
-    "path": "downloads/COM11_GraphicDesign_Planning_Guide_2026-10-08_v1_DRAFT.pdf",
-    "bytes": 1121927,
-    "sha256": "2c8716aff68cbe27934b0ba94310646c013a53c4592fcc11a830dd3c1dc6501e"
+    "path": "downloads/COM11_GraphicDesign_Planning_Guide_2026-10-08_v2_DRAFT.pdf",
+    "bytes": 1178641,
+    "sha256": "2b31188cda7e0bed21762c4262e81e036bcdcc0ff755b8e1fce7e279f484f8a2"
   },
   {
     "path": "downloads/COM11_GraphicDesign_Planning_Models_2026-10-08_v1_DRAFT.pdf",
@@ -101,13 +106,13 @@
   },
   {
     "path": "index.html",
-    "bytes": 4572,
-    "sha256": "43ab2a7f27ed00dbf1cd7ea397bb6fbc86fc3da51db64fbdbda554a0b5cc8637"
+    "bytes": 4992,
+    "sha256": "fee2f79fdcf7d2b7f6ea11cdb95d7f0d7307aec1f46bfa87dab1e1d60bd8e6bf"
   },
   {
     "path": "lab-route.html",
-    "bytes": 8266,
-    "sha256": "c4924cf7ee581f3f0d615bcac6215908e889aa7bff6264e9446e57b1d1f6fc62"
+    "bytes": 8367,
+    "sha256": "bb948c8636956115acae9cbb76eea54bfed13c81927cc61cd1e7150f049bd4da"
   },
   {
     "path": "labs/NorthCoast-student-starters.zip",
@@ -355,6 +360,26 @@
     "sha256": "b6e9f570e7c0819b7c9cd0df862ba1dc27b9f3437a28d7fca3ff37d67f78af55"
   },
   {
+    "path": "planning/assets/COM11_MoodBoard_Worked_Example.excalidraw",
+    "bytes": 29394,
+    "sha256": "06a9b579f0e8333e4c8f309e1faefed535d5def2abeffacadc85d13c2cf4eda4"
+  },
+  {
+    "path": "planning/assets/COM11_MoodBoard_Worked_Example.png",
+    "bytes": 251672,
+    "sha256": "020bf9721b126edc16654481dd4d47dd997424d8cfa71173e3fb65fc0684789a"
+  },
+  {
+    "path": "planning/assets/READ_ME_Browser_MoodBoard.txt",
+    "bytes": 1665,
+    "sha256": "13180ea9c7dad514caf17b4c37017d733a39dec29e7e276038e368f191df53da"
+  },
+  {
+    "path": "planning/assets/cup-reference-original.png",
+    "bytes": 10441,
+    "sha256": "d099c6fbd5238bcf48e4977507d9a0a3fe249fd138ce4e4dfbadf4ef04a25777"
+  },
+  {
     "path": "planning/assets/planning-log.txt",
     "bytes": 856,
     "sha256": "f0620121b5579e0310942bcdff2a85ef0b9ca6cd6a6907a38bd91d442aa71384"
@@ -362,7 +387,7 @@
   {
     "path": "planning/assets/planning-models.zip",
     "bytes": 133325,
-    "sha256": "a84097e7d354fb67688b9a2544285cbce3548c1ee5c229c835399ff44efdd3eb"
+    "sha256": "c17af7b4e9906297440400a748c3bddc512175c892b76a195106a42276895b3d"
   },
   {
     "path": "planning/assets/reference-study-log.txt",
@@ -371,8 +396,8 @@
   },
   {
     "path": "planning/guide.html",
-    "bytes": 56183,
-    "sha256": "d9a4c535236cdd7572dd74b57fea186748952d6a75ab58c11cb4d7537751e7c2"
+    "bytes": 57240,
+    "sha256": "66b11890fe85b6815ef6aeb9635e93173166062cfd6541747c260884d1f107e4"
   },
   {
     "path": "planning/img/compare-sketches.png",
@@ -445,19 +470,189 @@
     "sha256": "76584870a439503edcb2c4ef792d455e7059912f0b8764675cbab66108089877"
   },
   {
+    "path": "planning/img/web-accent-label.jpg",
+    "bytes": 24634,
+    "sha256": "ed58639c96d59c2466e63267f536e41d9c299b7f4981ee07cf48c09915915d73"
+  },
+  {
+    "path": "planning/img/web-accent-swatch.jpg",
+    "bytes": 7103,
+    "sha256": "48764f9b03a0f2a6a4882d498dadb4e22f50c5c116ac7bde670a8c40b9534b26"
+  },
+  {
+    "path": "planning/img/web-accent.jpg",
+    "bytes": 6659,
+    "sha256": "54f93c599a2f8684f9f50492854362e81afea08362d8c34780e3c04ad5161f2c"
+  },
+  {
+    "path": "planning/img/web-background-control.jpg",
+    "bytes": 5952,
+    "sha256": "63a0a1454575cec0fc717d4e1f7eae27fff1daa5c6c4cc6c72f17b5dc1747521"
+  },
+  {
+    "path": "planning/img/web-board-export.png",
+    "bytes": 251672,
+    "sha256": "020bf9721b126edc16654481dd4d47dd997424d8cfa71173e3fb65fc0684789a"
+  },
+  {
+    "path": "planning/img/web-board-result.jpg",
+    "bytes": 122199,
+    "sha256": "1c649fa2afef6a7ea452b6be2f525b86d76a6b63e00473961e6653776c3895fd"
+  },
+  {
+    "path": "planning/img/web-brief.jpg",
+    "bytes": 30245,
+    "sha256": "776924df139db113448211daf1d8288e93a6b83172b3cc8a97a43e3360291901"
+  },
+  {
+    "path": "planning/img/web-colour-roles.jpg",
+    "bytes": 22516,
+    "sha256": "8ef26a68368dffd1060fd2a56092c51b4bb6d716f4f4d3775759d4eadfdc787c"
+  },
+  {
+    "path": "planning/img/web-copy-export.jpg",
+    "bytes": 19607,
+    "sha256": "7d93796324994c8c05b5add9b57955599471e82f0618754824791734282dd16f"
+  },
+  {
+    "path": "planning/img/web-cream-label.jpg",
+    "bytes": 14890,
+    "sha256": "1c891f36fd0d78de00ef668e33dc107b0d5026780a185a2cedfa808a72ac3c5a"
+  },
+  {
+    "path": "planning/img/web-cream.jpg",
+    "bytes": 6878,
+    "sha256": "b60c8146aec6fa673f3f3cb52ccbcb5cc419a52307066b56004237c000d514d0"
+  },
+  {
+    "path": "planning/img/web-credit.jpg",
+    "bytes": 20102,
+    "sha256": "343e5828232dcaa2057442670eb70fea0034b2380378ce2c9143456798e7cffd"
+  },
+  {
+    "path": "planning/img/web-detail.jpg",
+    "bytes": 26040,
+    "sha256": "4a655d933113bd8c422dbd325f91c016ddaf9d2e007ef04563ee312bd5e5b52f"
+  },
+  {
+    "path": "planning/img/web-export-menu.jpg",
+    "bytes": 10660,
+    "sha256": "275654b0dc2520432902b30b7fca13d27fe67add687b48978ca352bf9778b730"
+  },
+  {
+    "path": "planning/img/web-export-preview.jpg",
+    "bytes": 93087,
+    "sha256": "005101c76d3ae90586b0ac66ce9390d78212c98b69ae1263fdc1c21174a1f31f"
+  },
+  {
+    "path": "planning/img/web-fill-picker.jpg",
+    "bytes": 6260,
+    "sha256": "1fde92674620e15334ab0bcf85c09da0626826a49ec6b4301f4c006396eebb0b"
+  },
+  {
+    "path": "planning/img/web-headline.jpg",
+    "bytes": 7622,
+    "sha256": "2b2a373a9bbb2b861974d3b5a3f1e41ee8f7045591f15c58f422a9e891109df1"
+  },
+  {
+    "path": "planning/img/web-image-menu.jpg",
+    "bytes": 24106,
+    "sha256": "8f7e8b1a7e64ed66f6d97b6ccbfc34cc07cb8319526473722e68ef8f4573ff24"
+  },
+  {
+    "path": "planning/img/web-image-moved.jpg",
+    "bytes": 55178,
+    "sha256": "ecf43958d676972fa06553c54e9f261ef8715c8ad71918f4ffb8c8460e086b23"
+  },
+  {
+    "path": "planning/img/web-image-resized.jpg",
+    "bytes": 19815,
+    "sha256": "d22a99a7701920155d93cc8b9235adb09000be725c7ac0f25559bc9db9fe0a7b"
+  },
+  {
+    "path": "planning/img/web-image-wrong.jpg",
+    "bytes": 44649,
+    "sha256": "60438e14fa0cbdf6ad82b1fd220635357b39855a7d25508bfdb64d3faed3cdc7"
+  },
+  {
+    "path": "planning/img/web-ink-label.jpg",
+    "bytes": 20708,
+    "sha256": "e747729ed070cbed3f6b348c669b8c8b3679cf2dabe5cfa93adba6ca7cd7bea9"
+  },
+  {
+    "path": "planning/img/web-ink-swatch.jpg",
+    "bytes": 6548,
+    "sha256": "1fa8fd0a53a11a70d53c6908bc356b33102c0b136fde3ac81818a58a6ea46d36"
+  },
+  {
+    "path": "planning/img/web-ink.jpg",
+    "bytes": 6270,
+    "sha256": "6c63499a77ab9022b6eb34cac07deffd0b6fc29fca7e4bdc37848f1b7c559fdd"
+  },
+  {
+    "path": "planning/img/web-open.jpg",
+    "bytes": 53661,
+    "sha256": "56960b1c43bc55ec07d876dbf5c901a0cd8eee043da56ae88ade5b2cd4ea6fc7"
+  },
+  {
+    "path": "planning/img/web-palette-heading.jpg",
+    "bytes": 8153,
+    "sha256": "dcccb3a03d44090aa2480c8501b2ba9acd55c04842ea0fd338e5620fc9979964"
+  },
+  {
+    "path": "planning/img/web-reason.jpg",
+    "bytes": 26564,
+    "sha256": "8a297fd1685d9efc54223c7617ca08cb6219a8d8582ae9c16fc4996514e24263"
+  },
+  {
+    "path": "planning/img/web-save-disk.jpg",
+    "bytes": 16661,
+    "sha256": "2bac398412d3249b72653a0fcdcf80f38a9d9bed112c0a14fdfcd5a75f666f4a"
+  },
+  {
+    "path": "planning/img/web-save-menu.jpg",
+    "bytes": 11020,
+    "sha256": "cb6648eda8be4af4c6f43a4e4c11ee5f7b11cbe42a75d64fa052ac636e7ef9fa"
+  },
+  {
+    "path": "planning/img/web-swatch.jpg",
+    "bytes": 25916,
+    "sha256": "5dcb472cf2915513ff3b7353dc9a6318f868cbea55041b314426a4251d63edb9"
+  },
+  {
+    "path": "planning/img/web-text-tool.jpg",
+    "bytes": 29511,
+    "sha256": "aacb72f85d614c23733919c1d9854a8008ae6f8f64e4e9c58cc37d1abed9c1a7"
+  },
+  {
+    "path": "planning/img/web-title.jpg",
+    "bytes": 27861,
+    "sha256": "0054fd5d0ec2373e259805cf4c2d5237e980159ea72df17efce8ca745614bc9c"
+  },
+  {
+    "path": "planning/img/web-type-direction.jpg",
+    "bytes": 24457,
+    "sha256": "372a91ee7e5f32c1366a605e9763ebe4aeac618acd4ff7a462ab5adbe0ad3f50"
+  },
+  {
     "path": "planning/index.html",
     "bytes": 219,
     "sha256": "cb4587aa6459d501169ee896bcc88f0654871c875b42f92dd21198536cbb438d"
   },
   {
     "path": "planning/theory.html",
-    "bytes": 35683,
-    "sha256": "5da28f112d8ad92a44e7f7b581f31f51c70e9b4b3f144bf79a71f976ffdefefa"
+    "bytes": 36767,
+    "sha256": "b77d3b873775037242052ce1fba2e6d257bed320a413c8b0a1ba75790c8c3164"
   },
   {
     "path": "planning/theory_recording_script.txt",
-    "bytes": 5776,
-    "sha256": "7fd8eea4fd149fbab7f63134f5af0e61f710576c87e9b8634aff50d011f1a1a9"
+    "bytes": 6256,
+    "sha256": "fae08b8e14db5666de9705e9e9d7690d45070f0ab458dfca908e74431c1fb712"
+  },
+  {
+    "path": "planning/web-moodboard.html",
+    "bytes": 50409,
+    "sha256": "54deaf74b3293b487d6b1020c0677388205aa9907c9406bd5b8f098abe29df80"
   },
   {
     "path": "site.css",
@@ -466,8 +661,8 @@
   },
   {
     "path": "sources.html",
-    "bytes": 2149,
-    "sha256": "7d0e84706a1dda5ca0f53935f6dde79aee4ad1545e5a46c082d73411e1b17fbe"
+    "bytes": 2658,
+    "sha256": "062b54a0088f44e1059f6be29055f38e7e1b4e3f83adb75723f8b2d9c1c855f7"
   },
   {
     "path": "speech-controls.js",
