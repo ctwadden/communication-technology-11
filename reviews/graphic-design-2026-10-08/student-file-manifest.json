@@ -1,0 +1,352 @@
+[
+  {
+    "path": "assets/elements.svg",
+    "bytes": 1077,
+    "sha256": "e04c0003b600626aad9db55962f2c2518b9c595cb37eb2adde52d0576503b418"
+  },
+  {
+    "path": "assets/real-campaigns/follow-the-arches.jpg",
+    "bytes": 69824,
+    "sha256": "2b68c69e542832bc3c857d28a149486b276da41df7d300a6b8c3e5d3524732c1"
+  },
+  {
+    "path": "assets/real-campaigns/lego-dragon.jpg",
+    "bytes": 95962,
+    "sha256": "13395f08c1b13c1ace774cf03250ce60bf152e9ca5f1707b09bc587c83186c0c"
+  },
+  {
+    "path": "assets/real-campaigns/recycle-me.jpg",
+    "bytes": 20337,
+    "sha256": "0ac93cb7d4316632c7e4564400aa833e63990c0ef43c384aac630742d287021b"
+  },
+  {
+    "path": "assets/real-campaigns/simpatico.jpg",
+    "bytes": 67840,
+    "sha256": "f67abec736f119e0f362163d6f44a19914a9b1709a768a01b89bf6b058f5cf11"
+  },
+  {
+    "path": "assets/teach-colour-properties.svg",
+    "bytes": 1507,
+    "sha256": "8e09a8f6825419a716526148a3ed4d0bdc0ec50ac93ae9115deac0c72a3b7fda"
+  },
+  {
+    "path": "assets/teach-ryb-wheel.svg",
+    "bytes": 2358,
+    "sha256": "88d4344d2853ee049dee6c901628b58da66667b32bf349c130108ce0fd8c1be7"
+  },
+  {
+    "path": "deck/app.js",
+    "bytes": 7493,
+    "sha256": "822c0e5ad1840d481773f22ff0011494d3693f29e0f0920510e8621d4388e95d"
+  },
+  {
+    "path": "deck/deck-data.js",
+    "bytes": 86500,
+    "sha256": "52607c87bc0fed6327748399e04fbdb90205e903d2b1c1471cd344da4e69a534"
+  },
+  {
+    "path": "deck/index.html",
+    "bytes": 1663,
+    "sha256": "a37558f38e8219c44745c8036a09f70fd36636552e596f45fda2380beb5259ac"
+  },
+  {
+    "path": "deck/style.css",
+    "bytes": 13535,
+    "sha256": "57939cd05b44d534f6d7e47ff5b4e37d22fa9cd34a615bf18b961ac5667a5b97"
+  },
+  {
+    "path": "downloads/COM11_GraphicDesign_2026-10-08_v3_DRAFT.pdf",
+    "bytes": 6820961,
+    "sha256": "66d9c482a5d413f86c8824bcc4badd2148c2171cef552b34f0d71a1a42f46beb"
+  },
+  {
+    "path": "downloads/COM11_GraphicDesign_2026-10-08_v3_DRAFT.pptx",
+    "bytes": 4210697,
+    "sha256": "e25828c99a12cc2f3ea2dc7b1696d04dbc84934151ca29f1e905fd52b8c5292f"
+  },
+  {
+    "path": "downloads/COM11_GraphicDesign_Google_AI_Studio_Prompt_2026-10-08_v1.md",
+    "bytes": 8978,
+    "sha256": "5dc772e62061432631b9ec3ce7ce8030f5a313a7c17054baa7c5e29185a9bfad"
+  },
+  {
+    "path": "downloads/COM11_GraphicDesign_Lab_Route_2026-10-08_v1_DRAFT.pdf",
+    "bytes": 87545,
+    "sha256": "d965f7f98929804c410c8c7b29c9c7d232795c08ec2d1d99c05e2b2c8fbcc827"
+  },
+  {
+    "path": "downloads/COM11_GraphicDesign_Photoshop_Labs_2026-10-08_v1_DRAFT.pdf",
+    "bytes": 791671,
+    "sha256": "801bd6d749cc2c9c2e14921d596c0ff78a1b5e16858a6736cbc9e1ce42e3cace"
+  },
+  {
+    "path": "index.html",
+    "bytes": 3845,
+    "sha256": "b8e3916c6acd339ec40d88f1a9010d6d2dd9a3c2ea1c049ce392d71e2a9ddba6"
+  },
+  {
+    "path": "lab-route.html",
+    "bytes": 7474,
+    "sha256": "89258771606760b513069ee22f9a508b330a0d524f9cdd751e739b8c50b09b6d"
+  },
+  {
+    "path": "labs/NorthCoast-student-starters.zip",
+    "bytes": 2440046,
+    "sha256": "780304c0df6a72322f2b61020839a5e5c6cf71d03bf8b5a9b4b4060db992df9b"
+  },
+  {
+    "path": "labs/START_HERE.txt",
+    "bytes": 782,
+    "sha256": "e318fb7dd8176180af68468c506e7a7b920a0b8f7d741b6d463e8cd64efa1925"
+  },
+  {
+    "path": "labs/data.js",
+    "bytes": 28163,
+    "sha256": "9907aa7b8b4b3bff80045c8cfaea2c4855b0c12f17a0c465ef85516f678c44cd"
+  },
+  {
+    "path": "labs/fonts/DejaVuSans-Bold.ttf",
+    "bytes": 708920,
+    "sha256": "a4c5bc453ca281d90ea079e596da7ae0dfeb5777497c29ec254e76d97ff6f890"
+  },
+  {
+    "path": "labs/fonts/DejaVuSans.ttf",
+    "bytes": 759720,
+    "sha256": "57f73e11f51999432bf7ab22ce55b6f945d5eca1bf824404cfa9ec2e3718c84e"
+  },
+  {
+    "path": "labs/fonts/DejaVuSerif-Bold.ttf",
+    "bytes": 356668,
+    "sha256": "aac3f559445d23f0f567a243f91f3f6ad6cb4b5cafa1521a3479fffe0637f0bd"
+  },
+  {
+    "path": "labs/fonts/LICENSE.txt",
+    "bytes": 3859,
+    "sha256": "63d3ba759d12804c5b31a9d5940d855c1820d1f5999e6b0872eb1c7ff045fbc9"
+  },
+  {
+    "path": "labs/index.html",
+    "bytes": 8350,
+    "sha256": "0cd5390ec9b1c775c862d5ce10630ce346ec04f34453981b063f266105cbe655"
+  },
+  {
+    "path": "labs/labs.css",
+    "bytes": 3135,
+    "sha256": "cb907446f7d671c9bae6e056d41a988acc0a637f89f1380b7572d0dd74170bc9"
+  },
+  {
+    "path": "labs/labs.js",
+    "bytes": 13072,
+    "sha256": "711f368eeda3e113d934b5c3a7ab35cf1d81eb35cc0c646e7d9282017ff7846f"
+  },
+  {
+    "path": "labs/practice.pdf",
+    "bytes": 791671,
+    "sha256": "801bd6d749cc2c9c2e14921d596c0ff78a1b5e16858a6736cbc9e1ce42e3cace"
+  },
+  {
+    "path": "labs/previews/L01_Hierarchy_After.png",
+    "bytes": 62669,
+    "sha256": "a676d887c8bcc9aad768919ba4d78d3b581f9b3e69bb3ef371977e1e1c136c06"
+  },
+  {
+    "path": "labs/previews/L01_Hierarchy_Start.png",
+    "bytes": 54769,
+    "sha256": "3e905f625f3e86909a51737594fdf457fa4232a954ba89317980bc37a7c2bc15"
+  },
+  {
+    "path": "labs/previews/L02_Alignment_After.png",
+    "bytes": 62669,
+    "sha256": "a676d887c8bcc9aad768919ba4d78d3b581f9b3e69bb3ef371977e1e1c136c06"
+  },
+  {
+    "path": "labs/previews/L02_Alignment_Start.png",
+    "bytes": 62675,
+    "sha256": "35e7553ad23d4aa8277cb3b0a2ae769fdadce2e0be44c46d6a371df03b12fa97"
+  },
+  {
+    "path": "labs/previews/L03_Spacing_After.png",
+    "bytes": 62669,
+    "sha256": "a676d887c8bcc9aad768919ba4d78d3b581f9b3e69bb3ef371977e1e1c136c06"
+  },
+  {
+    "path": "labs/previews/L03_Spacing_Start.png",
+    "bytes": 62866,
+    "sha256": "18cd42dca21fb445abefe3ccc1f4d81413c085a120b57c24212c9cf8396172f9"
+  },
+  {
+    "path": "labs/previews/L04_Contrast_After.png",
+    "bytes": 62669,
+    "sha256": "a676d887c8bcc9aad768919ba4d78d3b581f9b3e69bb3ef371977e1e1c136c06"
+  },
+  {
+    "path": "labs/previews/L04_Contrast_Start.png",
+    "bytes": 59438,
+    "sha256": "3f972148782eceb38eea06edb5190e3b87500515c2db7b20a73fb5bea8e166f5"
+  },
+  {
+    "path": "labs/previews/L05_Balance_After.png",
+    "bytes": 62669,
+    "sha256": "a676d887c8bcc9aad768919ba4d78d3b581f9b3e69bb3ef371977e1e1c136c06"
+  },
+  {
+    "path": "labs/previews/L05_Balance_Start.png",
+    "bytes": 63619,
+    "sha256": "849176684efe940ddc721d78a63057932fe49ad6b00d4d43371db468ebe3a11c"
+  },
+  {
+    "path": "labs/previews/L06_Repetition_After.png",
+    "bytes": 55701,
+    "sha256": "dbe1f489a5bf72dc6e014c2c155cd1ff97ac483772ad5da14fe0cb3e85c53a29"
+  },
+  {
+    "path": "labs/previews/L06_Repetition_Start.png",
+    "bytes": 56524,
+    "sha256": "5571a03bbfd355d01993ec6369694843f62aced554b599f3ac831a9c6c778b94"
+  },
+  {
+    "path": "labs/previews/L07_Complementary_After.png",
+    "bytes": 62757,
+    "sha256": "21aad9fe22b198fa7cfd057c2881f63332997b63a81cca2218bf3c3d0264cede"
+  },
+  {
+    "path": "labs/previews/L07_Complementary_Start.png",
+    "bytes": 63011,
+    "sha256": "fb064804549bc54a6ba2bc969ade7e673310720380f0ac77a2eafe5f5a77cd39"
+  },
+  {
+    "path": "labs/previews/L08_Analogous_After.png",
+    "bytes": 63058,
+    "sha256": "65e52d57a4cea1ffd3ff8341b7b2f8727cf9b36d17fa9e54a16668c07ebae4c7"
+  },
+  {
+    "path": "labs/previews/L08_Analogous_Start.png",
+    "bytes": 63059,
+    "sha256": "f9b2d15e0dbc290f3c49efb4461bd4f54e8d8bf735028ee0869cf366004a806b"
+  },
+  {
+    "path": "labs/previews/L09_Gradient_After.png",
+    "bytes": 182750,
+    "sha256": "ebcf066ce13a1a1657e6f0cca274f8723958319247795feaf28b09bb65bb4a2f"
+  },
+  {
+    "path": "labs/previews/L09_Gradient_Start.png",
+    "bytes": 60501,
+    "sha256": "e7f07d79f87071589ccc6d9bc0ae94c7ae6016bbc77b4998c4fb29d91646eb59"
+  },
+  {
+    "path": "labs/previews/L10_Font_Choice_After.png",
+    "bytes": 62669,
+    "sha256": "a676d887c8bcc9aad768919ba4d78d3b581f9b3e69bb3ef371977e1e1c136c06"
+  },
+  {
+    "path": "labs/previews/L10_Font_Choice_Start.png",
+    "bytes": 64510,
+    "sha256": "88bca76de6168e76488e3a9b39bc0a7bcc2ae17c0e7d92112436b5f1c9a9b701"
+  },
+  {
+    "path": "labs/previews/L11_Type_Spacing_After.png",
+    "bytes": 62669,
+    "sha256": "a676d887c8bcc9aad768919ba4d78d3b581f9b3e69bb3ef371977e1e1c136c06"
+  },
+  {
+    "path": "labs/previews/L11_Type_Spacing_Start.png",
+    "bytes": 62557,
+    "sha256": "71c9a4bc6bb31cec7f8e9545044d1074aca9f4273bc817abf494545bca298143"
+  },
+  {
+    "path": "labs/previews/L12_Web_Export_After.png",
+    "bytes": 62669,
+    "sha256": "a676d887c8bcc9aad768919ba4d78d3b581f9b3e69bb3ef371977e1e1c136c06"
+  },
+  {
+    "path": "labs/previews/L12_Web_Export_Start.png",
+    "bytes": 62669,
+    "sha256": "a676d887c8bcc9aad768919ba4d78d3b581f9b3e69bb3ef371977e1e1c136c06"
+  },
+  {
+    "path": "labs/print.html",
+    "bytes": 28912,
+    "sha256": "81da10a0db174f1f59bf1414dfdbae06d2ad172d01f9ef82c7dd154f3533978a"
+  },
+  {
+    "path": "labs/starters/L01_Hierarchy_Start.psd",
+    "bytes": 448558,
+    "sha256": "02150983a1ebe5aa7ceef9a61693445945a34b6d0ce9d8eca6eff98a088cfbcd"
+  },
+  {
+    "path": "labs/starters/L02_Alignment_Start.psd",
+    "bytes": 490406,
+    "sha256": "a474d6557b3e8c8c988a34c49c672318d06c99f442fc5bfba6be317f80fe3a87"
+  },
+  {
+    "path": "labs/starters/L03_Spacing_Start.psd",
+    "bytes": 489932,
+    "sha256": "6a32a89134e8fccdc1bb65271352a90c5ae544e0434921a9c7eb1e1fb970abb1"
+  },
+  {
+    "path": "labs/starters/L04_Contrast_Start.psd",
+    "bytes": 484347,
+    "sha256": "5f3e005ade61ff5d9c9fb051d8d85b010a1ccac790f1a177d57cde7b84fc44b6"
+  },
+  {
+    "path": "labs/starters/L05_Balance_Start.psd",
+    "bytes": 487694,
+    "sha256": "e5023ef67863f549f3f525c943462b62600ba5824659b01a90296bbbd20cafc3"
+  },
+  {
+    "path": "labs/starters/L06_Repetition_Start.psd",
+    "bytes": 482690,
+    "sha256": "23ff9d650ece471dbc605f224c28db3d1260d4a6e461b4e6ba6e89811129fa1c"
+  },
+  {
+    "path": "labs/starters/L07_Complementary_Start.psd",
+    "bytes": 500356,
+    "sha256": "128c936d383e6e50d5abc6fb4c6d2c1a791be80979789f6d9a4d0671231bc6df"
+  },
+  {
+    "path": "labs/starters/L08_Analogous_Start.psd",
+    "bytes": 502120,
+    "sha256": "bf516bcbb46427d7b0673926bf2d8d51059b8dc8c57972f299217b59c1c3f936"
+  },
+  {
+    "path": "labs/starters/L09_Gradient_Start.psd",
+    "bytes": 557109,
+    "sha256": "24519ee8b0fdc36dc0e4edfec0982f27a8838a39c9e31d7c07c5b403ac475300"
+  },
+  {
+    "path": "labs/starters/L10_Font_Choice_Start.psd",
+    "bytes": 502362,
+    "sha256": "955f44dfc057ef2e5028277a9978b28506ec859120ddb8af782402977d2c903d"
+  },
+  {
+    "path": "labs/starters/L11_Type_Spacing_Start.psd",
+    "bytes": 491387,
+    "sha256": "9322485cb70c4ff8ff442b071541e492270f785f77c07450f4cd717a5620e038"
+  },
+  {
+    "path": "labs/starters/L12_Web_Export_Start.psd",
+    "bytes": 489932,
+    "sha256": "52ade4b32d212d69be0a57f9e9a8b68ac38af1a21727c05d521ae89f4eb62f0d"
+  },
+  {
+    "path": "labs/workbook.html",
+    "bytes": 3556,
+    "sha256": "b6e9f570e7c0819b7c9cd0df862ba1dc27b9f3437a28d7fca3ff37d67f78af55"
+  },
+  {
+    "path": "site.css",
+    "bytes": 7039,
+    "sha256": "780856faa4e8ba1509b3fae60f125346e2945e1998bf3e35e37045f5b2e810c6"
+  },
+  {
+    "path": "sources.html",
+    "bytes": 2149,
+    "sha256": "7d0e84706a1dda5ca0f53935f6dde79aee4ad1545e5a46c082d73411e1b17fbe"
+  },
+  {
+    "path": "speech-controls.js",
+    "bytes": 4390,
+    "sha256": "65f628e3bb67d8b655684a6eb7752408227c4b7f6d9c1a3cc9a103cdfe5e18e5"
+  }
+]
