@@ -1,0 +1,121 @@
+[
+  {
+    "raw": "03-document-name.png",
+    "derived": "native-name.jpg",
+    "source_sha256": "d9a7fdb891fbdf5a8d2cc6467f9b155951d59235fb9e47b571f5135b5a29d3d5",
+    "crop": [
+      1535,
+      170,
+      2150,
+      350
+    ],
+    "orange_box": [
+      1580,
+      235,
+      2070,
+      300
+    ],
+    "annotation": "2.1",
+    "kind": "genuine Photoshop UI capture; observed wrong height remains visible"
+  },
+  {
+    "raw": "04-width.png",
+    "derived": "native-width.jpg",
+    "source_sha256": "384d16d3f33241da68c3c80d8d8424e16d176ad3b24f0ab2e1bc951926aaf6cf",
+    "crop": [
+      1535,
+      300,
+      2150,
+      480
+    ],
+    "orange_box": [
+      1580,
+      360,
+      1730,
+      430
+    ],
+    "annotation": "2.2",
+    "kind": "genuine Photoshop UI capture; observed wrong height remains visible"
+  },
+  {
+    "raw": "07-artboards-enabled.png",
+    "derived": "native-artboards.jpg",
+    "source_sha256": "2367b2d800afc37b91e6de6bd7b9f8af1b0b69673ec13df81ca6ba779eedffb1",
+    "crop": [
+      1535,
+      440,
+      2150,
+      620
+    ],
+    "orange_box": [
+      1875,
+      486,
+      1935,
+      548
+    ],
+    "annotation": "2.4",
+    "kind": "genuine Photoshop UI capture; observed wrong height remains visible"
+  },
+  {
+    "raw": "06-resolution-and-profile.png",
+    "derived": "native-profile.jpg",
+    "source_sha256": "1dced96c2fb0a836426da3bfb3ba6702015c6902d0976b2dc1a77766e2890fa2",
+    "crop": [
+      1535,
+      565,
+      2150,
+      1150
+    ],
+    "orange_box": [
+      1580,
+      607,
+      2120,
+      1120
+    ],
+    "annotation": "2.5",
+    "kind": "genuine Photoshop UI capture; observed wrong height remains visible"
+  },
+  {
+    "raw": "08-created-wrong-height.png",
+    "derived": "native-wrong-height.jpg",
+    "source_sha256": "97738fa30afb2c2186b5739f03f17cb922e1023205bf2a75fdacf1c1a371b5ee",
+    "crop": null,
+    "orange_box": [
+      0,
+      1720,
+      550,
+      1840
+    ],
+    "annotation": "CHECK",
+    "kind": "genuine Photoshop UI capture; observed wrong height remains visible"
+  },
+  {
+    "raw": "06-resolution-and-profile.png",
+    "derived": "native-size-detail.jpg",
+    "crop": [
+      1535,
+      300,
+      2150,
+      610
+    ],
+    "orange_box": null,
+    "kind": "genuine native capture; inherited incorrect height visible"
+  },
+  {
+    "raw": "06-resolution-and-profile.png",
+    "derived": "native-height-diagnosis.jpg",
+    "crop": [
+      1535,
+      300,
+      2150,
+      610
+    ],
+    "orange_box": [
+      1580,
+      486,
+      1730,
+      550
+    ],
+    "kind": "genuine native capture; inherited incorrect height visible"
+  }
+]

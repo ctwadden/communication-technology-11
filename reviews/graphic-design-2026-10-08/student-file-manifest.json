@@ -70,9 +70,9 @@
     "sha256": "5dc772e62061432631b9ec3ce7ce8030f5a313a7c17054baa7c5e29185a9bfad"
   },
   {
-    "path": "downloads/COM11_GraphicDesign_Lab_Route_2026-10-08_v2_DRAFT.pdf",
-    "bytes": 87096,
-    "sha256": "0979066c4f7ca98daa548263178fcc6bd3b7b8ae235ed1c6d5c6fb410a5906aa"
+    "path": "downloads/COM11_GraphicDesign_Lab_Route_2026-10-08_v3_DRAFT.pdf",
+    "bytes": 89790,
+    "sha256": "817753b87f3ea0430953975d09ae108f07037c44240008899ea49ce462ae440c"
   },
   {
     "path": "downloads/COM11_GraphicDesign_Photoshop_Labs_2026-10-08_v1_DRAFT.pdf",
@@ -80,14 +80,34 @@
     "sha256": "801bd6d749cc2c9c2e14921d596c0ff78a1b5e16858a6736cbc9e1ce42e3cace"
   },
   {
+    "path": "downloads/COM11_GraphicDesign_Planning_2026-10-08_v3_DRAFT.pdf",
+    "bytes": 1298941,
+    "sha256": "a18a76b8e2b1f535111bccf223aa0d94492d6c803148f10968b593cdb6e978e7"
+  },
+  {
+    "path": "downloads/COM11_GraphicDesign_Planning_2026-10-08_v3_DRAFT.pptx",
+    "bytes": 919723,
+    "sha256": "6691cec0fa028b6e720a6e01c0acb23df31b360f574931c42b072f06bf6c8458"
+  },
+  {
+    "path": "downloads/COM11_GraphicDesign_Planning_Guide_2026-10-08_v1_DRAFT.pdf",
+    "bytes": 1121927,
+    "sha256": "2c8716aff68cbe27934b0ba94310646c013a53c4592fcc11a830dd3c1dc6501e"
+  },
+  {
+    "path": "downloads/COM11_GraphicDesign_Planning_Models_2026-10-08_v1_DRAFT.pdf",
+    "bytes": 173154,
+    "sha256": "6ee8ebe9ded3b25858d0b5c43414d06ba18e799a66e8a8b34e2ba1d5ba820a59"
+  },
+  {
     "path": "index.html",
-    "bytes": 3845,
-    "sha256": "b8e3916c6acd339ec40d88f1a9010d6d2dd9a3c2ea1c049ce392d71e2a9ddba6"
+    "bytes": 4572,
+    "sha256": "43ab2a7f27ed00dbf1cd7ea397bb6fbc86fc3da51db64fbdbda554a0b5cc8637"
   },
   {
     "path": "lab-route.html",
-    "bytes": 7474,
-    "sha256": "89258771606760b513069ee22f9a508b330a0d524f9cdd751e739b8c50b09b6d"
+    "bytes": 8266,
+    "sha256": "c4924cf7ee581f3f0d615bcac6215908e889aa7bff6264e9446e57b1d1f6fc62"
   },
   {
     "path": "labs/NorthCoast-student-starters.zip",
@@ -333,6 +353,111 @@
     "path": "labs/workbook.html",
     "bytes": 3556,
     "sha256": "b6e9f570e7c0819b7c9cd0df862ba1dc27b9f3437a28d7fca3ff37d67f78af55"
+  },
+  {
+    "path": "planning/assets/planning-log.txt",
+    "bytes": 856,
+    "sha256": "f0620121b5579e0310942bcdff2a85ef0b9ca6cd6a6907a38bd91d442aa71384"
+  },
+  {
+    "path": "planning/assets/planning-models.zip",
+    "bytes": 133325,
+    "sha256": "a84097e7d354fb67688b9a2544285cbce3548c1ee5c229c835399ff44efdd3eb"
+  },
+  {
+    "path": "planning/assets/reference-study-log.txt",
+    "bytes": 1123,
+    "sha256": "ab9f4309d0e2c17c166bc2be72eba25b44247501664f5dfcefecd0cd182c0e31"
+  },
+  {
+    "path": "planning/guide.html",
+    "bytes": 56183,
+    "sha256": "d9a4c535236cdd7572dd74b57fea186748952d6a75ab58c11cb4d7537751e7c2"
+  },
+  {
+    "path": "planning/img/compare-sketches.png",
+    "bytes": 90947,
+    "sha256": "f7de4a1288074270e880fafc0c3c3a8dd05cce6e49ef94ae121307a1421fb904"
+  },
+  {
+    "path": "planning/img/mood-board-model.png",
+    "bytes": 79556,
+    "sha256": "83d7d152dd14bf98ccd1ee6a03ab8489220ce1676970a5cdbe6f193c426bbaf4"
+  },
+  {
+    "path": "planning/img/mood-explained.png",
+    "bytes": 99158,
+    "sha256": "cd8b41d6a4c18f2c9d80f7d88b27ed50773ccb81b267416de44ed5964a65e646"
+  },
+  {
+    "path": "planning/img/native-artboards.jpg",
+    "bytes": 21845,
+    "sha256": "0906c8003c23e970b0033256752454e39556e3f17f689b84db6dd5339c26b30d"
+  },
+  {
+    "path": "planning/img/native-height-diagnosis.jpg",
+    "bytes": 25675,
+    "sha256": "ad30331cc39860e28da954ffa7e08ab78664312b787fa9466d911eb41a07b5a9"
+  },
+  {
+    "path": "planning/img/native-name.jpg",
+    "bytes": 21809,
+    "sha256": "01915837399bd94eb2527783ad9228b58c05efd0c9eefb4e1faf44d9b248f3cc"
+  },
+  {
+    "path": "planning/img/native-profile.jpg",
+    "bytes": 60619,
+    "sha256": "6f92642445a4e264d944cfa08533cac238f182f4c9c260e73257cecf06814c88"
+  },
+  {
+    "path": "planning/img/native-size-detail.jpg",
+    "bytes": 23304,
+    "sha256": "df996808b2ce5a2baf6829b5e5dd7ec1d3ecf8e1d2fd4bf4cae834e4ac2d3aed"
+  },
+  {
+    "path": "planning/img/native-width.jpg",
+    "bytes": 20535,
+    "sha256": "cd34b5bb986e31bab515a55d50e78c5cfdfef06e041ae25fc95c821eea6c770c"
+  },
+  {
+    "path": "planning/img/native-wrong-height.jpg",
+    "bytes": 324114,
+    "sha256": "4093801107393dc117c2e6064564469db86f0ce6b659e1db648fefe91354d0bf"
+  },
+  {
+    "path": "planning/img/planning-process.png",
+    "bytes": 38614,
+    "sha256": "28c3b955e7d9d4e26bcf7484e53f2fa3b5f26066ef38829df7669d30d95b9f2f"
+  },
+  {
+    "path": "planning/img/reference-study.png",
+    "bytes": 185860,
+    "sha256": "9f4e2aa0f1cdd61891fd0526637b3586d354d53c27128b6aac091427dad9f3e3"
+  },
+  {
+    "path": "planning/img/sketch-a-model.png",
+    "bytes": 34365,
+    "sha256": "8bb810710f61174459d02148aa8f7ce42f111404ddeffd7b9e52e304af89e3f0"
+  },
+  {
+    "path": "planning/img/sketch-b-model.png",
+    "bytes": 36447,
+    "sha256": "76584870a439503edcb2c4ef792d455e7059912f0b8764675cbab66108089877"
+  },
+  {
+    "path": "planning/index.html",
+    "bytes": 219,
+    "sha256": "cb4587aa6459d501169ee896bcc88f0654871c875b42f92dd21198536cbb438d"
+  },
+  {
+    "path": "planning/theory.html",
+    "bytes": 35683,
+    "sha256": "5da28f112d8ad92a44e7f7b581f31f51c70e9b4b3f144bf79a71f976ffdefefa"
+  },
+  {
+    "path": "planning/theory_recording_script.txt",
+    "bytes": 5776,
+    "sha256": "7fd8eea4fd149fbab7f63134f5af0e61f710576c87e9b8634aff50d011f1a1a9"
   },
   {
     "path": "site.css",
